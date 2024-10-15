@@ -159,8 +159,3 @@ window.addEventListener("keydown", (event) => {
     // Enverra "a", "b", "c", "Escape", "Backspace", "Enter"... à la machine
     polylineService.send(event.key);
 });
-
-
-
-
-
